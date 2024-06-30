@@ -1,0 +1,4 @@
+name: Sicherungssystem
+version: '${version}'
+main: de.kalosystems.sicherungssystem.Sicherungssystem
+api-version: '1.20'
