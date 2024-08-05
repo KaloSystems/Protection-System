@@ -1,0 +1,16 @@
+prefix: "§6Protection §8| §7";
+
+message.command.error: "%prefix% &cDu kannst diesen Block &c&l%block% &cnicht sichern."
+message.command.confirmed: "%prefix% &bDie Sicherung für &3&l%block% &bwurde erfolgreich erstellt&8."
+message.permission.denied: "%prefix% &cKeine Rechte"
+# Permissions
+
+use.command.basic: protection.use.basic
+
+mysql:
+  type: FILE # MYSQL or FILE
+  host: 127.0.0.1
+  port: 3306
+  database: Protection
+  username: user1234
+  password: 12345

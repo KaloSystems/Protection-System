@@ -1,4 +1,4 @@
 name: Sicherungssystem
 version: '${version}'
-main: de.kalosystems.sicherungssystem.Sicherungssystem
+main: de.kalosystems.protectionsystem.ProtectionPlugin
 api-version: '1.20'
